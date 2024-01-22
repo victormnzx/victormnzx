@@ -5,6 +5,7 @@ Oi! 👋 Eu sou Victor Menezes, um estudante de 16 anos apaixonado por programa�
 ## Sobre Mim
 
 - 👦 **Nome:** Victor Menezes
+- 🎂 **Idade:** 16 anos
 - 📍 **Local:** Nova Serrana, MG, Brasil
 
 ## Tecnologias em Foco
