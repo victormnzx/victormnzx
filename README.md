@@ -1,4 +1,4 @@
-# Bem-vindo ao Repositório de Victor Menezes
+# Bem-vindo ao Meu Repositório
 
 Oi! 👋 Eu sou Victor Menezes, um estudante de 16 anos apaixonado por programação web.
 
@@ -7,7 +7,7 @@ Oi! 👋 Eu sou Victor Menezes, um estudante de 16 anos apaixonado por programa�
 - 👦 **Nome:** Victor Menezes
 - 📍 **Local:** Nova Serrana, MG, Brasil
 
-## Tecnologias
+## Tecnologias em Foco
 
 - 🌐 HTML
 - 🎨 CSS
@@ -18,4 +18,4 @@ Oi! 👋 Eu sou Victor Menezes, um estudante de 16 anos apaixonado por programa�
 - ✉️ Email: victormenzx@gmail.com
 - 📷 Instagram: [@victormenzx](https://www.instagram.com/victormenzx/)
 
-Obrigado por visitar meu perfil!
+Obrigado por passar por aqui!
