@@ -1,25 +1,27 @@
-# Victor Menezes
+# Meu Primeiro Projeto Web
 
-👋 Olá! Eu sou Victor Menezes, um aspirante a desenvolvedor front-end de 16 anos de Nova Serrana, Minas Gerais.
+Olá! Eu sou o Victor Menezes, um estudante de 16 anos, e estou começando a explorar o mundo do desenvolvimento web. Este é o meu primeiro projeto, onde estou aprendendo HTML, CSS e JavaScript.
 
-## 🚀 Sobre Mim
+## Sobre o Projeto
 
-- 🌱 Atualmente aprendendo HTML, CSS e JavaScript.
-- 💼 Procurando ativamente oportunidades para colaborar em projetos front-end.
-- 🤔 Explorando novas tecnologias e frameworks para expandir minhas habilidades.
-- 🎓 Estudante do ensino médio com paixão por programação.
+Este projeto é uma página web simples criada como parte do meu aprendizado. Estou animado para compartilhar o que aprendi até agora e estou aberto a feedback e sugestões.
 
-## 🔧 Habilidades
+## Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## 📫 Entre em Contato
+## Como Contribuir
 
-- Instagram: [@victormenzx](https://www.instagram.com/victormenzx/)
-- Email: victormenzx@gmail.com
+Se você tiver alguma sugestão ou correção, fique à vontade para abrir uma **issue** ou enviar um **pull request**. Estou ansioso para aprender com a comunidade!
 
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou se quiser colaborar em um projeto!
+## Contato
 
-Bons códigos! 🚀
+- Nome: Victor Menezes
+- Idade: 16 anos
+- Email: seuemail@example.com
+
+Siga-me nas redes sociais:
+- [Twitter](https://twitter.com/seutwitter)
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
