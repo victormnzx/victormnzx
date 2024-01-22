@@ -1,27 +1,24 @@
-# Meu Primeiro Projeto Web
+# Bem-vindo ao Repositório de Victor Menezes
 
-Olá! Eu sou o Victor Menezes, um estudante de 16 anos, e estou começando a explorar o mundo do desenvolvimento web. Este é o meu primeiro projeto, onde estou aprendendo HTML, CSS e JavaScript.
+Olá! 👋 Eu sou Victor Menezes, um estudante de 16 anos apaixonado por programação web. Atualmente, estou focado em aprender HTML, CSS e JavaScript.
 
-## Sobre o Projeto
+## Sobre Mim
 
-Este projeto é uma página web simples criada como parte do meu aprendizado. Estou animado para compartilhar o que aprendi até agora e estou aberto a feedback e sugestões.
+- 👦 **Nome:** Victor Menezes
+- 🎂 **Idade:** 16 anos
+- 📍 **Localização:** Nova Serrana, MG, Brasil
 
-## Tecnologias Utilizadas
+## Tecnologias que Estou Estudando
 
-- HTML
-- CSS
-- JavaScript
-
-## Como Contribuir
-
-Se você tiver alguma sugestão ou correção, fique à vontade para abrir uma **issue** ou enviar um **pull request**. Estou ansioso para aprender com a comunidade!
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 💻 **JavaScript**
 
 ## Contato
 
-- Nome: Victor Menezes
-- Idade: 16 anos
-- Email: seuemail@example.com
+- 📧 **Email:** victormenzx@gmail.com
+- 📷 **Instagram:** [@victormenzx](https://www.instagram.com/victormenzx/)
 
-Siga-me nas redes sociais:
-- [Twitter](https://twitter.com/seutwitter)
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+## Agradecimentos
+
+Obrigado por visitar meu perfil! Fique à vontade para entrar em contato.
