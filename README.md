@@ -1,6 +1,6 @@
 # Victor Menezes
 
-👋 Olá! Eu sou Victor Menezes, um aspirante a desenvolvedor front-end de 16 anos de [Sua Cidade, Seu Estado].
+👋 Olá! Eu sou Victor Menezes, um aspirante a desenvolvedor front-end de 16 anos de Nova Serrana, Minas Gerais.
 
 ## 🚀 Sobre Mim
 
@@ -17,8 +17,8 @@
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Victor Menezes](https://www.linkedin.com/in/seu-linkedin/)
-- Email: seuemail@example.com
+- Instagram: [@victormenzx](https://www.instagram.com/victormenzx/)
+- Email: victormenzx@gmail.com
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou se quiser colaborar em um projeto!
 
